@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/news-image-20261119/kartheek-onehmt/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/kartheek-onehmt/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One front page for Thursday 19 November 2026: the ICJ's genocide ruling against Myanmar, the first Trump–Xi–Putin summit in Shenzhen, strikes on Kyiv and the Kerch bridge, the Houthi strike on Riyadh's PIF Tower, a tanker hitting a mine near Hormuz, Mongolia's president resigning, Somalia expelling the UAE's ambassador, and Bukele filing for a third term.
+A 41-story front page for Thursday 19 November 2026, every region: the first Trump–Xi–Putin summit in Shenzhen, the World Court's genocide ruling against Myanmar, Anthropic's Nasdaq debut, Wall Street's sixth straight loss, and 37 more, each attributed to its source, with a map, a coming-up box and a date check of what was left out.
 
-`entry.png` is drawn by `tools/make_image.py` (Pillow); `main.py` (standard library only) copies it to the output directory.
+`entry.png` is that page scaled to fit the bounty's 1024×1024 limit; `main.py` (standard library only) copies it to the output directory. `tools/make_image.py` drew the first, 8-story version.
 
 ## Run it
 
