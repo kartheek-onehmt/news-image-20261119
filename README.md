@@ -6,7 +6,7 @@
 
 A 41-story front page for Thursday 19 November 2026, every region: the first Trump–Xi–Putin summit in Shenzhen, the World Court's genocide ruling against Myanmar, Anthropic's Nasdaq debut, Wall Street's sixth straight loss, and 37 more, each attributed to its source, with a map, a coming-up box and a date check of what was left out.
 
-`entry.png` is that page scaled to fit the bounty's 1024×1024 limit; `main.py` (standard library only) copies it to the output directory. `tools/make_image.py` drew the first, 8-story version.
+`entry.png` is drawn at 1024×1024 by `tools/front_page.py` (Pillow); `main.py` (standard library only) copies it to the output directory. `tools/make_image.py` drew the first, 8-story version.
 
 ## Run it
 
